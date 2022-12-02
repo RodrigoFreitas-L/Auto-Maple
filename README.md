@@ -191,3 +191,4 @@ Auto Maple has the ability to automatically solve "runes", or in-game arrow key 
     This shortcut uses absolute paths, so feel free to move it wherever you want. However, if you move Auto Maple's main directory, you will need to run <code>python setup.py</code> again to generate a new shortcut. To keep the command prompt open after Auto Maple closes, run the above command with the <code>--stay</code> flag.
   </li>
 </ol>
+"# Auto-Maple" 
