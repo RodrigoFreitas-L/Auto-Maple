@@ -1,7 +1,8 @@
 <h1 align="center">
   Content
 </h1>
-Fork from [Auto Maple](https://github.com/tanjeffreyz/auto-maple)
+
+Fork from [Auto-Maple](https://github.com/tanjeffreyz/auto-maple)
 Just switching lib for keyboard inputs to avoid detection in the dead server Ristonia, but it no longer exists afaik.
 
 <h1 align="center">
